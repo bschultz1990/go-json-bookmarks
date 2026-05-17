@@ -1,0 +1,3 @@
+https://thevaluable.dev/practical-guide-fzf-example/
+https://bschultz1990.github.io/portfolio/
+https://www.freecodecamp.org/news/automate-simple-tasks-with-nodejs/
